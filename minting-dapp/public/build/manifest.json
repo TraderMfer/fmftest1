@@ -1,0 +1,10 @@
+{
+  "build/main.css": "http://localhost:8080/build/main.css",
+  "build/main.js": "http://localhost:8080/build/main.js",
+  "build/images/logo.png": "http://localhost:8080/build/images/logo.png",
+  "build/images/fav.png": "http://localhost:8080/build/images/fav.png",
+  "build/images/preview.png": "http://localhost:8080/build/images/preview.png",
+  "build/images/logo 1.png": "http://localhost:8080/build/images/logo 1.png",
+  "build/images/Tribe-04_06---Alien-star-fixed.png": "http://localhost:8080/build/images/Tribe-04_06---Alien-star-fixed.png",
+  "build/images/logo_tmp31320": "http://localhost:8080/build/images/logo_tmp31320.bin"
+}
